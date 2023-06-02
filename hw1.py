@@ -1,0 +1,1 @@
+print("Hello Teacher! How are you doing today? This is my first hw sent to github!")
