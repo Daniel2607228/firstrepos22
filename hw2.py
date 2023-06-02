@@ -1,0 +1,1 @@
+print("Hello Teacher! This is my second homework today. Good night!")
